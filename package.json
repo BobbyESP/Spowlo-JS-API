@@ -1,0 +1,21 @@
+{
+  "name": "spowlo-js-api",
+  "version": "0.0.1",
+  "description": "The Spowlo temporal backend to transform Spotify links into Youtube ones to be downloaded with yt-dlp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "api",
+    "spotifytoyoutube"
+  ],
+  "author": "BobbyESP",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "spotify-to-ytmusic": "^1.2.4"
+  }
+}
