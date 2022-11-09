@@ -1,5 +1,5 @@
 <h1 align="center">💻 Spowlo JS API (template)</h1>
-<h3 align="center">The API that will be temporarily be used to download songs from Spotify in Spowlo.</h3>
+<h3 align="center">The API that will temporarily be used to download songs from Spotify in Spowlo.</h3>
 
 # How to use
 First of all, this API was made with Node.js 15.x (works with 16.x) using [Express.js](https://expressjs.com/en/).
